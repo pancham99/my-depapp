@@ -7,10 +7,20 @@ const Header = () => {
             <div className=''>
                 <div className='flex justify-start'>madhu</div>
             </div>
-            <div className='flex items-center border rounded-md px-2 py-1 '>
-                <input className='w-48 md:flex-grow outline-none bg-transparent px-2' type='text'/>
-                <BiSearch className='hidden md:inline-block bg-red-400 rounded-full p-1 px-1' size={24}/>
+           <div className='border-[1px] w-full md:w-auto py-2 rounded-full shadow-sm hover:shadow-md transition cursor-pointer'>
+            <div className='flex flex-row items-center justify-between'>
+                <div className='text-sm font-semibold px-6'>
+                    Anywhare
+                </div>
+                <div className='hidden sm:block text-sm font-semibold px-6 border-x-[1px] flex-1 text-center'>Any week</div>
+                <div className='text-sm pl-6 pr-2 text-gray-600 flex flex-row items-center gap-3'>
+                    <div className='hidden sm:block'>Add Guests</div>
+                    <div className='p-2 bg-red-500 rounded-full text-white'>
+                        <BiSearch size={18}/>
+                    </div>
+                </div>
             </div>
+        </div>
             <div className='flex justify-end'>
                 <ul className=' hidden md:flex space-x-3'>
                     <li>Home</li>
