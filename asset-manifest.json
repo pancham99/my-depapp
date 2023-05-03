@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-depapp/static/css/main.b450e307.css",
-    "main.js": "/my-depapp/static/js/main.9363e4b9.js",
+    "main.css": "/my-depapp/static/css/main.5f83a718.css",
+    "main.js": "/my-depapp/static/js/main.f69eff8b.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-depapp/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/my-depapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-depapp/index.html",
-    "main.b450e307.css.map": "/my-depapp/static/css/main.b450e307.css.map",
-    "main.9363e4b9.js.map": "/my-depapp/static/js/main.9363e4b9.js.map",
+    "main.5f83a718.css.map": "/my-depapp/static/css/main.5f83a718.css.map",
+    "main.f69eff8b.js.map": "/my-depapp/static/js/main.f69eff8b.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-depapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b450e307.css",
-    "static/js/main.9363e4b9.js"
+    "static/css/main.5f83a718.css",
+    "static/js/main.f69eff8b.js"
   ]
 }
