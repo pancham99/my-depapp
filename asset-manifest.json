@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-depapp/static/css/main.d8487d69.css",
-    "main.js": "/my-depapp/static/js/main.9405febf.js",
+    "main.css": "/my-depapp/static/css/main.7100fb88.css",
+    "main.js": "/my-depapp/static/js/main.8655513f.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-depapp/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/my-depapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-depapp/index.html",
-    "main.d8487d69.css.map": "/my-depapp/static/css/main.d8487d69.css.map",
-    "main.9405febf.js.map": "/my-depapp/static/js/main.9405febf.js.map",
+    "main.7100fb88.css.map": "/my-depapp/static/css/main.7100fb88.css.map",
+    "main.8655513f.js.map": "/my-depapp/static/js/main.8655513f.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-depapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8487d69.css",
-    "static/js/main.9405febf.js"
+    "static/css/main.7100fb88.css",
+    "static/js/main.8655513f.js"
   ]
 }
